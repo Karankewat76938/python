@@ -1,0 +1,2 @@
+# python
+daily practice codes 
